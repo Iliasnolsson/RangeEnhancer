@@ -6,6 +6,7 @@
 //
 
 import QuartzCore
+import CoordinateEnums
 
 public extension ClosedRange {
     
