@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Iliasnolsson/CoordinateEnums",
       "state" : {
-        "revision" : "05f4924adc4b79944138154edc688d29f939be5f",
-        "version" : "1.0.0"
+        "revision" : "4441cbd53a62a95cc070a6a8389d47d44d31a8ae",
+        "version" : "1.0.1"
       }
     }
   ],
