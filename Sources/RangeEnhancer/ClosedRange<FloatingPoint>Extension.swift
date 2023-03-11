@@ -18,7 +18,7 @@ public extension ClosedRange where Bound: FloatingPoint {
     }
     
     func lowerBoundAdd(_ value: Bound) -> ClosedRange<Bound> {
-        return (self.lowerBound - value)...self.upperBound
+        return (self.lowerBound + value)...self.upperBound
     }
     
 }
